@@ -7,7 +7,6 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-
 aside {
   width: 30%;
   padding-left: 15px;
@@ -16,12 +15,10 @@ aside {
   font-style: italic;
   background-color: lightgray;
 }
-
 footer { background-color: lightgray;
   padding: 20px;
   text-align:center;
 }
-
 </style>
 </head>
 <body>
